@@ -1,1 +1,30 @@
 # mireyiaz.github.io
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Si-lees-esto-eres-gay-kris.</title>
+</head>
+<body>
+    <h1>Mi primera pagina web</h1>
+    <p>Hola Kris</p>
+
+    <p> Esta es mi primera pagina web, estoy aprendiendo a crear paginas web con HTML. </p>
+
+    <p> Chinga tu madre kris</p>
+<h3>Yo despues de 3 años programando:</h3>
+    <img src="images.jpg" alt="">
+    <img src="images.jpg" alt="">
+    <img src="images.jpg" alt="">
+
+    <p></p>
+    <button>Like para 100 años de buena suerte</button>
+    <p></p>
+    <button>Like para que Kris consiga novio</button>
+    <p></p>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1">Click aqui para ver un video de kris acosando ancianos en bikini</a>
+    
+</body>
+</html>
